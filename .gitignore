@@ -11,7 +11,7 @@ firebase-debug.*.log*
 .firebase/
 # Next js
 .next/
-.out/
+out/
 # Firebase config
 
 # Uncomment this if you'd like others to create their own Firebase project.
