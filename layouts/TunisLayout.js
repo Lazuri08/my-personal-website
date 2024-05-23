@@ -24,7 +24,7 @@ const TunisLayout = ({ children }) => {
     >
       <Preloader />
       {popup && <Popup />}
-      <Switcher />
+      {/* <Switcher /> */}
       <DayLight />
       {/* Live Style Switcher Ends - demo only */}
 
